@@ -1,4 +1,5 @@
 {
+  "perfis": {
     "BOE0B33": "https://raw.githubusercontent.com/EstudioOC/perfis/main/BOE0B33.icm",
     "BOE0C46": "https://raw.githubusercontent.com/EstudioOC/perfis/main/BOE0C46.icm",
     "BOE0929": "https://raw.githubusercontent.com/EstudioOC/perfis/main/BOE0929.icm",
@@ -68,4 +69,5 @@
     "SDC41A6": "https://raw.githubusercontent.com/EstudioOC/perfis/main/SDC41A6.icm",
     "CMN1522": "https://raw.githubusercontent.com/EstudioOC/perfis/main/CMN1522.icm",
     "BOE0B17": "https://raw.githubusercontent.com/EstudioOC/perfis/main/BOE0B17.icm"
+  }
 }
